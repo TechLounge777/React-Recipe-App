@@ -10,7 +10,7 @@ This is an application to render a list of recipes in React. It was built as a p
 - updating state
 
 
-# Project Screen Shot(s)
+# Project ScreenShot(s)
 
 - SCREENSHOT 1
 
