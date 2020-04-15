@@ -44,6 +44,7 @@ const App = () => {
         title= {recipe.recipe.label} 
         image={recipe.recipe.image} 
         ingredients={recipe.recipe.ingredients} 
+        source = {recipe.recipe.source}
       />
     ))}
       </div>
