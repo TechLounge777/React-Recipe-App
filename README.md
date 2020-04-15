@@ -10,16 +10,17 @@ This is an application to render a list of recipes in React. It was built as a p
 - updating state
 
 
-# Project ScreenShot(s)
+# Project Screenshot(s)
 
 - SCREENSHOT 1
 
-![React Recipe App 01](https://user-images.githubusercontent.com/27897792/79248696-71e37d00-7e7c-11ea-88c0-b99b68b5d50a.jpg)
+![React Recipe App 01_a](https://user-images.githubusercontent.com/27897792/79328056-bf5ff880-7f15-11ea-97ee-7e5deae58c8f.jpg) 
 
 
 - SCREENSHOT 2
 
-![React Recipe App 02](https://user-images.githubusercontent.com/27897792/79248709-75770400-7e7c-11ea-8ac4-a8b7bb0887c0.jpg)
+
+![React Recipe App 02b](https://user-images.githubusercontent.com/27897792/79328526-79576480-7f16-11ea-9405-49e42944496a.jpg)
 
 
 
