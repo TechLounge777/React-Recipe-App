@@ -4,22 +4,24 @@
 
 This is an application to render a list of recipes in React. It was built as a project to practice how to create and import components, make an api call, and render a list of recipes based on that call.
 
-- Fetching data from an api with React
+- fetching data from an api with React
 - useState and useEffect 
 - passing down data in React with props
 - updating state
 
 
-# Project Screen Shot(s)
+# Project Screenshot(s)
 
-- SCREEN SHOT 1
+- SCREENSHOT 1
 
-![React Recipe App 01](https://user-images.githubusercontent.com/27897792/79245765-d00e6100-7e78-11ea-834d-f1e45dd0c710.jpg)
+![React Recipe App 01_a](https://user-images.githubusercontent.com/27897792/79328056-bf5ff880-7f15-11ea-97ee-7e5deae58c8f.jpg) 
 
 
-- SCREEN SHOT 2
 
-![React Recipe App 02](https://user-images.githubusercontent.com/27897792/79248709-75770400-7e7c-11ea-8ac4-a8b7bb0887c0.jpg)
+- SCREENSHOT 2
+
+
+![React Recipe App 02b](https://user-images.githubusercontent.com/27897792/79328526-79576480-7f16-11ea-9405-49e42944496a.jpg)
 
 
 
